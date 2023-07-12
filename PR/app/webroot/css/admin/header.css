@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+.pagetop {
+	text-align: center;
+}
+@media screen and (min-width: 769px) {
+	.pagetop {
+		padding: 8vw 0;
+		position: fixed;
+		bottom: 0;
+		left: 50%;
+		margin-left: 570px;
+		background: transparent;
+	}
+}
+.pagetop img {
+	width: 8vw;
+}
+@media screen and (min-width: 769px) {
+	.pagetop img {
+		width: 50px;
+	}
+}
+.pagebottom {
+	padding: 0 0 3vw 0;
+	background: #000;
+	text-align: center;
+}
+@media screen and (min-width: 769px) {
+	.pagebottom {
+		position: fixed;
+		bottom: 0;
+		left: 50%;
+		margin-left: 570px;
+		background: transparent;
+	}
+}
+.pagebottom img {
+	width: 10vw;
+}
+@media screen and (min-width: 769px) {
+	.pagebottom img {
+		width: 50px;
+	}
+}

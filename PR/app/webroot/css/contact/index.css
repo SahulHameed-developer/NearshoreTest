@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+/* ========== error ========== */
+
+.label_error {
+    color: #e20000;
+    font-size: 0.9rem;
+}
+/* error-list */
+.form_box .error-list input.error,
+.form_box .error-list textarea.error,
+.form_box .error-list select.error {
+    background: #FFF5F5;
+}
+.form_box .error-list label.error {
+  margin-top: 1.5625vw;
+  color: #e20000;
+}
+@media screen and (min-width: 769px) {
+  .error-list label.error {
+    margin-top: 10px;
+    font-size: 13px;
+    font-size: 0.9rem;
+    line-height: 1;
+  }
+}
+.form_box .error-list div.message {
+  color: #e20000;
+}
+@media screen and (min-width: 769px) {
+  .error-list div.message {
+    margin-top: 10px;
+    font-size: 13px;
+    font-size: 0.9rem;
+    line-height: 1;
+  }
+}
+
+/* ========== error ========== */
+
+.ime-ModeEnable{
+	ime-mode: active;
+}
+.ime-ModeDisable{
+	ime-mode: disabled;
+}
+select::-ms-expand {
+  display: none;
+}

@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+
+
+/* ========== privacy ========== */
+
+/*-------------------------------------------------*/
+
+
+/* mainvisual */
+.main_visual {
+	background: url(../../img/privacy/sp/mv.jpg) no-repeat;
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+@media screen and (min-width: 769px) {
+	.main_visual {
+		background: url(../../img/privacy/pc/mv.jpg) -450px 0;
+	}
+}
+@media screen and (min-width: 1100px) {
+	.main_visual {
+		background: url(../../img/privacy/pc/mv.jpg) center 0 no-repeat #000;
+	}
+}
+
+
+/* ===== privacy ===== */
+
+/* ordered_list */
+@media screen and (min-width: 623px) {
+	.ordered_list {
+		margin-top: 30px;
+	}
+}
+
+
+/* ===== privacy_iframe ===== */
+
+/* privacy_iframe_contents */
+@media screen and (min-width: 623px) {
+	.privacy_iframe_contents {
+		width: 100%;
+		padding: 30px;
+		box-sizing: border-box;
+		font-size: 15px;
+		font-size: 1.5rem;
+		line-height: 1.4;
+	}
+	.privacy_iframe_contents .section + .section {
+		margin-top: 0;
+	}
+	.privacy_iframe_contents .h2 {
+		margin: 30px 0 15px;
+		font-size: 20px;
+		font-size: 2.0rem;
+		line-height: 1;
+	}
+	.privacy_iframe_contents .ordered_list {
+		margin-top: 30px;
+	}
+}

@@ -1,0 +1,81 @@
+@charset "utf-8";
+
+
+
+/* ========== news ========== */
+
+/*-------------------------------------------------*/
+.newslist-search-area .datepickerfmt {
+	width: 185px!important;
+	border-radius: 3px;
+	background: #fbfbfb;
+}
+
+.newslist-search-area .date {
+	position: relative;
+	display: inline-block;
+}
+/* dateFmtError*/
+.newslist-search-area input.error {
+	background: #FFF5F5;
+}
+
+.newslist-search-area .dateFmtError label.error {
+  margin-top: 1.5625vw;
+  color: #e20000;
+}
+
+@media screen and (min-width: 769px) {
+  .dateFmtError label.error {
+    margin-top: 10px;
+    font-size: 13px;
+    line-height: 1;
+  }
+}
+@media screen and (min-width: 769px) {
+	.newslist-search-area .dateFmtError {
+		width: 420px;
+	}
+}
+.errors {
+	font-size: 0.9rem;
+	color: #e20000;
+}
+.f_right {
+  display: block;
+  float: right;
+}
+.mb10 {
+	margin-bottom: 10px;
+}
+.wordbreak {
+	word-break: break-all !important;
+}
+span:hover {
+	position: relative;
+}
+span[tooltip]:hover:after {
+  content: attr(tooltip);
+  padding: 4px 8px;
+  color: black;
+  position: absolute;
+  left: 0;
+  bottom: 35px;
+  font-size: 12px;
+  white-space: pre;
+	background: white !important;
+	background-color: white;
+  filter:alpha(opacity=100); /* IE */
+  -moz-opacity:1; /* Mozilla */
+  opacity: 1; /* CSS3 */
+  border:1px solid;
+  z-index: 10;
+}
+@-moz-document url-prefix() {
+	span[tooltip]:hover:after {
+		bottom: 35px !important;
+	}
+}
+.inline {
+  display: inline-block !important;
+}

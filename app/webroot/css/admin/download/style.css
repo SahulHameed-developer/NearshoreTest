@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* ========== download ========== */
+/*-------------------------------------------------*/
+.f_right {
+  display: block;
+  float: right;
+}
+  input[type=checkbox] {
+    display:none;
+  }
+  input[type=checkbox] + label {
+    border:0.1px solid black;
+    background: white;
+    height: 13px;
+    width: 13px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+  }
+  input[type=checkbox]:checked + label {
+    background: black;
+    height: 13px;
+    width: 13px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+  }
+  .wd50p {
+    width: 60% !important;
+  }
+  .wd8p {
+    width: 8% !important;
+  }
+  .wd7p {
+    width: 7% !important;
+  }
+  .wd6p {
+    width: 6% !important;
+  }
+  .wd5p {
+    width: 5% !important;
+  }
+  .tac {
+    text-align:center !important;
+  }
+  .mt64{
+    margin-top: 64px !important;
+  }
+  .mt20{
+    margin-top: 20px !important;
+  }
+  .rstFile1:disabled {
+    background-color:gray !important;
+  }
+  .boxwidth100{
+    width: 100% !important;
+  }

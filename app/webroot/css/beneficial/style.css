@@ -1,0 +1,362 @@
+@charset "utf-8";
+
+
+
+/* ========== beneficial ========== */
+
+/*-------------------------------------------------*/
+
+
+/* mainvisual */
+.main_visual {
+	background: url(../../img/beneficial/sp/mv.jpg) no-repeat;
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+@media screen and (min-width: 769px) {
+	.main_visual {
+		background: url(../../img/beneficial/pc/mv.jpg) -450px 0;
+	}
+}
+@media screen and (min-width: 1100px) {
+	.main_visual {
+		background: url(../../img/beneficial/pc/mv.jpg) center 0 no-repeat #ead4b9;
+	}
+}
+
+
+/* ===== beneficial ===== */
+
+/* beneficial_list */
+.beneficial_contents .contents .beneficial_list .beneficial_list_item {
+	padding: 4.6875vw 0 6.25vw;
+	border-bottom: 1px dotted #c0c0c0;
+}
+@media screen and (min-width: 1100px) {
+	.beneficial_contents .contents .beneficial_list .beneficial_list_item {
+		display: table;
+		padding: 20px 0 20px 20px;
+		border-bottom: 1px dotted #c0c0c0;
+		font-size: 15px;
+		font-size: 1.5rem;
+		line-height: 1.8;
+	}
+}
+.beneficial_contents .contents .beneficial_list .beneficial_list_item:first-child {
+	border-top: 1px dotted #c0c0c0;
+}
+@media screen and (min-width: 1100px) {
+	.beneficial_contents .contents .beneficial_list dt,
+	.beneficial_contents .contents .beneficial_list dd {
+		display: table-cell;
+	}
+}
+.beneficial_contents .contents .beneficial_list dt {
+	margin-bottom: 3.125vw;
+}
+@media screen and (min-width: 1100px) {
+	.beneficial_contents .contents .beneficial_list dt {
+		position: relative;
+		width: 133px;
+		margin-bottom: 0;
+	}
+}
+@media screen and (min-width: 1100px) {
+	.beneficial_contents .contents .beneficial_list dt:after {
+		position: absolute;
+		top: 8px;
+		right: 15px;
+		display: inline-block;
+		content: '';
+		width: 0;
+		height: 0;
+		border-top: 5px solid transparent;
+		border-right: 7px solid transparent;
+		border-bottom: 5px solid transparent;
+		border-left: 7px solid #c8c8c8;
+	}
+}
+
+/* link_block */
+.beneficial_contents .contents .link_block {
+	margin-top: 4.6875vw;
+	text-align: center;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_contents .contents .link_block {
+		margin: 30px auto 0;
+		text-align: center;
+	}
+}
+.beneficial_contents .contents .link_block .link_item {
+	position: relative;
+	width: 45.3125vw;
+	margin: 0 auto;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_contents .contents .link_block .link_item {
+		width: 212px;
+	}
+}
+.beneficial_contents .contents .link_block .link_item a {
+	height: 8.75vw;
+	background: #1e4e92;
+	color: #FFF;
+	line-height: 8.75vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_contents .contents .link_block .link_item a {
+		height: auto;
+		padding: 15px 0;
+		font-size: 19px;
+		font-size: 1.9rem;
+		line-height: 1;
+	}
+}
+
+
+/* ===== beneficial_detail ===== */
+
+/* hgroup */
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .h1 span {
+		padding: 0;
+		border: 0 none;
+	}
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .h1 .headline {
+		font-size: 24px;
+		font-size: 2.4rem;
+		line-height: 1.4;
+	}
+}
+.beneficial_detail_contents .contents .h1 .date {
+	display: block;
+	margin-top: 3.125vw;
+	font-size: 12px;
+	font-size: 1.2rem;
+	line-height: 1;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .h1 .date {
+		margin-top: 20px;
+		font-size: 15px;
+		font-size: 1.5rem;
+	}
+}
+
+/* detail_contents */
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .detail_contents {
+		padding-bottom: 50px;
+		border-bottom: 3px solid #f5f6f8;
+	}
+}
+
+/* description */
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .description p {
+		font-size: 15px;
+		font-size: 1.5rem;
+		line-height: 1.8;
+	}
+}
+
+/* figure_block */
+.beneficial_detail_contents .contents .figure_block {
+	margin-top: 9.375vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .figure_block {
+		margin-top: 50px;
+	}
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .figure {
+		float: left;
+	}
+}
+.beneficial_detail_contents .contents .figure + .figure {
+	margin-top: 4.6875vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .figure + .figure {
+		margin: 0 0 0 30px;
+	}
+}
+.beneficial_detail_contents .contents .figcaption {
+	margin-top: 1.5625vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .figcaption {
+		margin-top: 10px;
+		font-size: 13px;
+		font-size: 1.3rem;
+		line-height: 1;
+	}
+}
+
+/* attachment_block */
+.beneficial_detail_contents .contents .attachment_block {
+	margin-top: 9.375vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .attachment_block {
+		margin-top: 50px;
+	}
+}
+.beneficial_detail_contents .contents .attachment_block dd {
+	margin-top: .78125vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .attachment_block dd {
+		margin-top: 0;
+	}
+}
+.beneficial_detail_contents .contents .attachment_block a {
+	color: #1e4e92;
+	font-size: 14px;
+	font-size: 1.4rem;
+	text-decoration: underline;
+	line-height: 1;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .attachment_block a {
+		line-height: 1.6;
+	}
+}
+.beneficial_detail_contents .contents .attachment_block dl + dl {
+	margin-top: 6.25vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .attachment_block dl + dl {
+		margin-top: 20px;
+	}
+}
+
+/* link_block */
+.beneficial_detail_contents .contents .link_block {
+	margin-top: 6.25vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .link_block {
+		width: 142px;
+		margin: 30px auto 0;
+	}
+}
+.beneficial_detail_contents .contents .link_block .link_item a {
+	width: 45.3125vw;
+	height: 8.75vw;
+	margin: 0 auto;
+	background: #1E4E92;
+	color: #FFF;
+	line-height: 8.75vw;
+	text-align: center;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .link_block .link_item a {
+		width: 142px;
+		height: auto;
+		padding: 15px 0;
+		font-size: 19px;
+		font-size: 1.9rem;
+		line-height: 1;
+	}
+}
+/* Microbit Start */
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .figureSize {
+		float: left;
+		max-width:298px;
+		max-height:220px;
+	}
+}
+.beneficial_detail_contents .contents .figureSize + .figureSize {
+	margin-top: 4.6875vw;
+}
+@media screen and (min-width: 769px) {
+	.beneficial_detail_contents .contents .figureSize + .figureSize {
+		margin: 0 0 0 30px;
+	}
+}
+.beneficial_detail_contents .contents .figureSize img {
+	border: 1px solid #e0e2e6;
+}
+
+.beneficial_title {
+	word-break: break-all !important; 
+	display: block !important;
+}
+.maxsize_yuekiSyasin {
+	max-height: 300px;
+	max-width: 300px;
+	width: auto !important;
+}
+@media screen and (min-width: 769px) {
+	.mb80 {
+		margin-bottom: 80px;
+	}
+}
+.oshirasewidht {
+	width: 98%;
+}
+@media screen and (min-width: 768px) {
+	.oshirasewidht {
+		width: 800px;
+	}
+}
+span[tooltip]:hover:after {
+    content: attr(tooltip);
+    padding: 4px 8px;
+    color: black;
+    position: absolute;
+	margin-top: -35px !important;
+    left: 70px;
+    font-size: 12px;
+    white-space: pre;
+	background: white !important;
+	background-color: white;
+    filter:alpha(opacity=100); /* IE */
+    -moz-opacity:1; /* Mozilla */
+    opacity: 1; /* CSS3 */
+    border:1px solid;
+    z-index: 10;
+}
+.inline {
+	display: inline-block;
+}
+.section_mb {
+	margin-bottom: 20px;
+}
+@media screen and (min-width: 768px) {
+	.section_mb {
+		margin-bottom: 30px;
+	}
+}
+.descriptionTitle_fnsize {
+	font-size: 1.2rem !important;
+}
+@media screen and (min-width: 768px) {
+	.descriptionTitle_fnsize {
+		font-size: 1.6rem !important;
+	}
+}
+.description_fnsize {
+	font-size: 1.2rem;
+}
+@media screen and (min-width: 768px) {
+	.description_fnsize {
+		font-size: 1.5rem;
+	}
+}
+.description_ml {
+	margin-left:1.5rem;
+}
+@media screen and (min-width: 768px) {
+	.description_ml {
+		margin-left:1.7rem;
+	}
+}
+/* Microbit End */

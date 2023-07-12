@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+
+
+/* ========== contact ========== */
+
+/*-------------------------------------------------*/
+
+
+/* mainvisual */
+.main_visual {
+	background: url(../../img/contact/sp/mv.jpg) no-repeat;
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+@media screen and (min-width: 769px) {
+	.main_visual {
+		background: url(../../img/contact/pc/mv.jpg) -450px 0;
+	}
+}
+@media screen and (min-width: 1100px) {
+	.main_visual {
+		background: url(../../img/contact/pc/mv.jpg) center 0 no-repeat #162773;
+	}
+}
+
+
+/* example styles for validation form demo */
+
+#toiawasei .fieldgroup {
+	width: 420px;
+}
+
+#toiawasei .fieldgroup label {
+    color: #e20000;
+   /*  padding: 15px 0 0; */
+}
+
+
+#toiawasei .fieldgroup label.error {
+    color: #e20000;
+   /*  margin: 4px 5px 5px 0px; */
+    font-size: 13px;
+    font-size: 1.3rem;
+    line-height: 1;
+}
+
+#toiawasei .fieldgroup input.error, #toiawasei .fieldgroup textarea.error, #toiawasei .fieldgroup select.error {
+	background: #FFF5F5;
+}
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #999 !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #999 !important;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #999 !important;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #999 !important;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #999 !important;
+}

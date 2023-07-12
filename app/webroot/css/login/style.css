@@ -1,0 +1,256 @@
+@charset "utf-8";
+
+
+
+/* ========== members ========== */
+
+/*-------------------------------------------------*/
+
+
+/* contents */
+body {
+	background: #EDF2F8;
+}
+.contents_wrap {
+	padding: 7.8125vw 7.8125vw 4.6825vw;
+}
+@media screen and (min-width: 769px) {
+	.contents_wrap {
+		width: 500px;
+		margin: 0 auto;
+		padding: 50px 50px 0;
+	}
+}
+.contents {
+	padding: 6.25vw 3.125vw 3.90625vw;
+}
+@media screen and (min-width: 769px) {
+	.contents {
+		padding: 40px 20px 25px;
+	}
+}
+.logo {
+	width: 35.9375vw;
+	margin: 0 auto 6.25vw;
+}
+@media screen and (min-width: 769px) {
+	.logo {
+		width: auto;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+}
+.contents .h1 {
+	margin-bottom: 2.34375vw;
+	padding: 2.34375vw;
+	background: #000;
+	color: #FFF;
+	font-size: .9rem;
+	text-align: center;
+}
+@media screen and (min-width: 769px) {
+	.contents .h1 {
+		margin-bottom: 20px;
+		padding: 15px;
+		font-size: 18px;
+	}
+}
+@media screen and (min-width: 769px) {
+	.form_contents {
+		padding: 0;
+		background: #FFF;
+	}
+}
+.form_contents .description {
+	margin-bottom: 5.46875vw;
+	font-size: .8rem;
+	text-align: center;
+}
+@media screen and (min-width: 769px) {
+	.form_contents .description {
+		margin-bottom: 40px;
+		font-size: 15px;
+	}
+}
+
+.login_box {
+	padding: 0 6.25vw;
+}
+@media screen and (min-width: 769px) {
+	.login_box {
+		padding: 0 40px;
+	}
+}
+.login_box label {
+	display: table;
+	font-size: .8rem;
+}
+.user_login {
+	margin-bottom: 3.125vw;
+}
+@media screen and (min-width: 769px) {
+	.user_login {
+		margin-bottom: 20px;
+	}
+}
+.login_box label span,
+.login_box label input {
+	display: table-cell;
+	vertical-align: middle;
+}
+.login_box label span {
+	padding-right: 1.5625vw;
+}
+@media screen and (min-width: 769px) {
+	.login_box label span {
+		padding-right: 10px;
+		font-size: 15px;
+	}
+}
+.login_box label input {
+	width: 46.875vw;
+	height: 6.25vw;
+}
+@media screen and (min-width: 769px) {
+	.login_box label input {
+		width: 290px;
+		height: 40px;
+	}
+}
+@media screen and (min-width: 769px) {
+	.submit_btn {
+		text-align: center;
+	}
+}
+.form_contents input[type="submit"] {
+	width: 45.3125vw;
+	height: auto;
+	margin: 6.25vw auto 3.125vw;
+	font-size: .9rem;
+	line-height: 1;
+}
+@media screen and (min-width: 769px) {
+	.form_contents input[type="submit"] {
+		width: 290px;
+		margin: 40px 20px 20px;
+		font-size: 18px;
+	}
+}
+
+#nav,
+#backtoblog {
+	font-size: .7rem;
+	text-align: center;
+	line-height: 1;
+}
+@media screen and (min-width: 769px) {
+	#nav,
+	#backtoblog {
+		font-size: 14px;
+	}
+}
+#backtoblog {
+	margin-top: 4.6875vw;
+}
+@media screen and (min-width: 769px) {
+	#backtoblog {
+		margin-top: 30px;
+	}
+}
+.copyright {
+	padding-top: 0;
+}
+@media screen and (min-width: 769px) {
+	.copyright {
+		background: #EDF2F8;
+	}
+}
+.copyright p {
+	margin-top: 15.625vw;
+	font-size: .6rem;
+}
+@media screen and (min-width: 769px) {
+	.copyright p {
+		margin-top: 100px;
+		color: #000;
+		font-size: 11px;
+	}
+}
+@media screen and (min-width: 769px) {
+	.message {
+		font-size: 1.4rem;
+		text-align: center;
+		color: red;
+	}
+}
+.message {
+	font-size: 0.8rem;
+	text-align: center;
+	color: red;
+}
+.login-box .login-error div.message {
+  color: #e20000;
+}
+@media screen and (min-width: 769px) {
+  .login-error div.message {
+	font-size: 1.4rem;
+	text-align: center;
+  }
+}
+div.message {
+  color: #e20000;
+}
+@media screen and (min-width: 769px) {
+  div.message {
+	font-size: 1.4rem;
+	text-align: center;
+  }
+}
+.ml205 {
+	margin-left: 205px;
+}
+.txtbox {
+	width: 195px;
+	height: 35px;
+}
+.ml85 {
+	margin-left: 85px;
+}
+.error {
+	color: #e20000;
+}
+@media screen and (min-width: 769px) {
+  .error {
+	font-size: 1.4rem !important;
+	color: #e20000;
+   }
+}
+/* placeholder */
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	color: #999;
+}
+::-moz-placeholder { /* Firefox 19+ */
+	color: #999;
+}
+:-ms-input-placeholder { /* IE 10+ */
+	color: #999 !important;
+}
+:-moz-placeholder { /* Firefox 18- */
+	color: #999;
+}
+.fntsize_lgn_usr {
+	font-size:auto !important;
+}
+@media screen and (min-width: 769px) {
+	.fntsize_lgn_usr {
+		font-size:1.65rem !important;
+	}
+}
+.fntsize_lgn_pass {
+	font-size:auto !important;
+}
+@media screen and (min-width: 769px) {
+	.fntsize_lgn_pass {
+		font-size:2.5rem !important;
+	}
+}

@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+.fnt14 {
+	font-size:14px;
+}
+.inlineblk {
+	display:inline-block;
+}
+.flex420 {
+	flex: 0 0 210px;
+	padding: 0px;
+  	border-bottom: 1px dotted #c0c0c0;
+}
+@media screen and (min-width: 769px) {
+	.flex420 {
+		flex: 0 0 420px !important;
+		padding: 0px !important;
+		border: 0px !important;
+	}
+}
+.flex740 {
+	flex: 0 0 190px;
+	margin-top: 20px;
+}
+@media screen and (min-width: 769px) {
+	.flex740 {
+		flex: 0 0 740px !important;
+	}
+}
+.tac {
+	text-align:center !important;
+}
+.vam {
+	vertical-align: middle;
+}
+.vat {
+	vertical-align: top;
+}
+
+.search-btn {
+	border-top: 0px dotted #c0c0c0 !important;
+	border-bottom: 1px dotted #c0c0c0 !important;
+	margin-top: 5px !important;
+	margin-bottom: 20px !important;
+	padding-top: 0px !important;
+	padding-bottom:20px !important;
+}
+.search-btn button {
+	margin: 0 auto;
+}
+.mt10 {
+	margin-top: 10px !important;
+}
+.mt20 {
+	margin-top: 20px !important;
+}
+.mt20 {
+	margin-top: 20px;
+}
+.wd3p {
+	width: 0.3% !important;
+}
+.mr20 {
+	margin-right:20px;
+}
+.w100p {
+	width: 100%;
+}
+.w20p {
+	width: 20%;
+}
+.pad_11_7 {
+	padding: 0 10px 0 7px;
+}
+.dottedline {
+	border-bottom: 1px dotted #c0c0c0 !important;
+	margin-bottom: 15px;
+}
+.f_right {
+  display: block;
+  float: right;
+}
+.fwb {
+	font-weight: bold;
+}
+/*for change the checkbox tick into fill colour*/
+.form-common input[type="checkbox"] {
+	display: none;
+	border: 0;
+	margin: 0;
+}
+.freeword-search input[type="checkbox"] {
+	display: none;
+	border: 0;
+	margin: 0;
+}
+.cursorpointer {
+	cursor: pointer !important;
+}
+.freeword-search .searchcontrol .searchcontrolcheckbox li label {
+	display: inline-block;
+	cursor: default;
+}
+.form-common input[type="checkbox"]:checked + label:after {
+	background-color: #1e4e92;
+	transform: scale(1);
+}
+.freeword-search .searchcontrol .searchcontrolcheckbox li label::before, .freeword-search .searchcontrol .searchcontrolcheckbox li label::after {
+	content: "";
+	position: absolute;
+	display: inline-block;
+	border-radius: 10%;
+	transition: transform .2s ease;
+	border-color: lightgrey;
+}
+.freeword-search input[type="checkbox"]:checked + label:after {
+	background-color: black;
+	transform: scale(2);
+}
+.freeword-search .searchcontrol .searchcontrolcheckbox li label.active::before {
+	border-color: grey;

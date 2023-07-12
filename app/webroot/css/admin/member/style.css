@@ -1,0 +1,159 @@
+.errors {
+	font-size: 0.9rem;
+	color: #e20000;
+}
+
+/* float */
+.f_right {
+  display: block;
+  float: right;
+}
+
+/* error-list */
+.form_box .error-list input.error,
+.form_box .error-list textarea.error,
+.form_box .error-list select.error {
+	background: #FFF5F5;
+}
+
+.form_box .error-list label.error {
+  margin-top: 1.5625vw;
+  color: #e20000;
+}
+
+@media screen and (min-width: 769px) {
+  .error-list label.error {
+    margin-top: 10px;
+    font-size: 13px;
+    font-size: 1.3rem;
+    line-height: 1;
+  }
+}
+@media screen and (min-width: 769px) {
+	.form_box .error-list {
+		width: 420px;
+	}
+}
+
+.form_box .error-list div.message {
+  color: #e20000;
+}
+
+@media screen and (min-width: 769px) {
+  .error-list div.message {
+    margin-top: 10px;
+    font-size: 13px;
+    font-size: 1.3rem;
+    line-height: 1;
+  }
+}
+
+/* error-select */
+.form_box .error-select input.error,
+.form_box .error-select textarea.error,
+.form_box .error-select select.error {
+	background: #FFF5F5;
+}
+
+.form_box .error-select label.error {
+  color: #e20000;
+}
+
+@media screen and (min-width: 769px) {
+  .error-select label.error {
+    margin-top: 10px;
+    font-size: 13px;
+    font-size: 1.3rem;
+    line-height: 1;
+  }
+}
+@media screen and (min-width: 769px) {
+	.form_box .error-select {
+		width: 274px;
+	}
+}
+.ime-ModeEnable{
+	ime-mode: active;
+}
+.ime-ModeDisable{
+	ime-mode: disabled;
+}
+
+.errors input.error,
+.errors textarea.error,
+.errors select.error {
+	background: #FFF5F5;
+}
+
+.errors label.error {
+  margin-top: 1.5625vw;
+  color: #e20000;
+}
+
+@media screen and (min-width: 769px) {
+  .errors label.error {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    line-height: 1;
+  }
+}
+@media screen and (min-width: 769px) {
+}
+
+.errors div.message {
+  color: #e20000;
+}
+
+@media screen and (min-width: 769px) {
+  .errors div.message {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    line-height: 1;
+  }
+}
+
+/* error-select */
+.error-select input.error,
+.error-select textarea.error,
+.error-select select.error {
+	background: #FFF5F5;
+}
+
+.error-select label.error {
+  color: #e20000;
+}
+@media screen and (min-width: 769px) {
+	.error-select {
+		width: 274px;
+	}
+}
+.mt-24 {
+	margin-top:-24px !important;
+}
+.errors-message {
+	font-size: 0.9rem;
+	color: #e20000;
+}
+/* error_list */
+.form_box .error_list input[type="text"],
+.form_box .error_list textarea {
+  background: #FFF5F5;
+}
+.form_box .error_list .error {
+  margin-top: 1.5625vw;
+  color: #e20000;
+}
+@media screen and (min-width: 769px) {
+  .form_box .error_list .error {
+    margin-top: 10px;
+    font-size: 13px;
+    font-size: 1.3rem;
+    line-height: 1;
+  }
+}
+.mb5 {
+  margin-bottom: 5px;
+}
+.mb10 {
+  margin-bottom: 10px;
+}

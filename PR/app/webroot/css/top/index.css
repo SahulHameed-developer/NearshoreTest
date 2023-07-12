@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+/* ========== top ========== */
+
+.titleOverflow {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.maxsize_SyasinDiv {
+	min-height: 189px;
+}
+.maxsize_SyasinImg {
+	max-height: 189px; 
+	width: auto; 
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.maxsize_SyasinImg2 {
+	max-height: 105px; 
+	max-width: 147px; 
+	width: auto;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.fade-container {
+	overflow: hidden;
+	position: relative;
+	line-height: 16px; 
+	height: 45px;
+	-ms-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+	word-wrap: break-word;
+}
+.fade {
+	position: absolute;
+	margin-bottom: 8px;
+	right: 0;
+	bottom: 0;
+	width: 40px;
+	background-color: white;
+}
+.minHeight45 {
+	min-height: 45px;
+}
+
+select::-ms-expand {
+  display: none;
+}
+
+.nl2br {
+	white-space: pre-line;
+}
+
+.home-pr-main li .home-pr-main-txt2 {
+	padding: 0 0 4px;
+}
+
+.dispNone {
+	display: none;
+}
+
+.visbilityShowAfterLoad {
+	visibility: hidden;
+}
+
+.displayBlockAfterLoad {
+	display: none;
+}
+/* ========== top ========== */

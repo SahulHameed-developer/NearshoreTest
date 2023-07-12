@@ -1,0 +1,1 @@
+var dataCompareError = '期間のFrom、Toを正しく入力してください。';

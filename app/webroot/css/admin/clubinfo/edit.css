@@ -1,0 +1,60 @@
+.rstsyasin:disabled {
+	background-color:gray !important;
+}
+.rstsyasin1:disabled {
+	background-color:gray !important;
+}
+.rstsyasin2:disabled {
+	background-color:gray !important;
+}
+.rstsyasin3:disabled {
+	background-color:gray !important;
+}
+.rstsyasin4:disabled {
+	background-color:gray !important;
+}
+.rstsyasin5:disabled {
+	background-color:gray !important;
+}
+.rstsyasin6:disabled {
+	background-color:gray !important;
+}
+.rstsyasin7:disabled {
+	background-color:gray !important;
+}
+.rstsyasin8:disabled {
+	background-color:gray !important;
+}
+.rstsyasin9:disabled {
+	background-color:gray !important;
+}
+.registercls {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9IjQ5JSIgeT0iNDklIiBmb250LXNpemU9IjMwIiBmaWxsPSJibGFjayI+55m76Yyy5Lit44CC44CC44CCPC90ZXh0Pjwvc3ZnPg==');
+	background-color: rgba(255, 255, 255, .5);
+}
+.updatecls {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9IjQ5JSIgeT0iNDklIiBmb250LXNpemU9IjMwIiBmaWxsPSJibGFjayI+5pu05paw5Lit44CC44CC44CCPC90ZXh0Pjwvc3ZnPg==');
+	background-color: rgba(255, 255, 255, .5);
+}
+.requireds::after {
+	position: absolute;
+	top: 23px;
+	left: 101px;
+	content: "必須";
+	padding: 3px 6px;
+	font-size: 0.8rem;
+	background: #f4c000;
+	color: #fff;
+}

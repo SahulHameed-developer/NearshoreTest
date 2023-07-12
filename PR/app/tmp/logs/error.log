@@ -1,0 +1,575 @@
+2020-07-30 21:23:08 Error: [MissingControllerException] Controller class AdminProductController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminProductController',
+  'plugin' => NULL,
+)
+Request URL: /shisankeiwfh/SOURCE/PR_nearshore/adminProduct?url=adminProduct
+Stack Trace:
+#0 C:\xampp\htdocs\shisankeiwfh\SOURCE\PR_nearshore\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\xampp\htdocs\shisankeiwfh\SOURCE\PR_nearshore\index.php(43): require('C:\\xampp\\htdocs...')
+#2 {main}
+2020-08-05 01:33:44 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:33:44 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:40:29 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:40:29 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:40:45 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:40:45 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:41:01 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:41:01 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:41:35 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:41:35 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:42:12 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:42:12 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:42:55 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:42:55 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:43:16 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:43:16 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:44:24 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:44:24 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:44:49 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:44:49 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:54:15 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:54:15 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 01:54:30 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 01:54:30 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:02:29 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:02:29 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:03:46 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:03:46 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:03:52 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:03:52 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:04:41 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:04:41 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:05:06 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:05:06 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:12:26 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:12:26 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/update?url=AdminProductsite%2Fupdate
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:13:21 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:13:21 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/update?url=AdminProductsite%2Fupdate
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:13:42 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:13:42 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/update?url=AdminProductsite%2Fupdate
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:14:04 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:14:04 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/update?url=AdminProductsite%2Fupdate
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:22:29 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:22:29 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/update?url=AdminProductsite%2Fupdate
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:44:26 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:44:26 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:45:31 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:45:31 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-05 02:45:33 Error: Fatal Error (1): Call to a member function rollback() on a non-object in [/usr/home/ae202424qn/html/PR/app/Controller/AdminProductsiteController.php, line 661]
+2020-08-05 02:45:33 Error: [FatalErrorException] Call to a member function rollback() on a non-object
+Request URL: /PR/AdminProductsite/register?url=AdminProductsite%2Fregister
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/usr/home/ae202...', 661)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/usr/home/ae202...', 661, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-08-06 13:03:56 Error: [MissingActionException] Action AppController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'webroot',
+)
+Request URL: /PR/app/webroot/img/home/bnr-shisankei.jpg?1596514866=
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2021-02-24 17:47:18 Error: Fatal Error (1): Call to undefined function captchaImage() in [/usr/home/ae202424qn/html/PR/app/Controller/ContactController.php, line 23]
+2021-02-24 17:47:18 Error: [FatalErrorException] Call to undefined function captchaImage()
+Request URL: /PR/contact?url=contact
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/usr/home/ae202...', 23)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/usr/home/ae202...', 23, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/usr/home/ae202...', 23, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2021-02-24 17:52:43 Error: Fatal Error (1): Call to undefined function captchaImage() in [/usr/home/ae202424qn/html/PR/app/Controller/ContactController.php, line 23]
+2021-02-24 17:52:43 Error: [FatalErrorException] Call to undefined function captchaImage()
+Request URL: /PR/contact?url=contact
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/usr/home/ae202...', 23)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/usr/home/ae202...', 23, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/usr/home/ae202...', 23, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2021-02-24 17:55:51 Error: Fatal Error (1): Call to undefined function captchaImage() in [/usr/home/ae202424qn/html/PR/app/Controller/ContactController.php, line 23]
+2021-02-24 17:55:51 Error: [FatalErrorException] Call to undefined function captchaImage()
+Request URL: /PR/contact?url=contact
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/usr/home/ae202...', 23)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/usr/home/ae202...', 23, Array)
+#2 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/usr/home/ae202...', 23, Array)
+#3 /usr/home/ae202424qn/html/PR/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2021-02-24 22:16:31 Error: [MissingControllerException] Controller class Trelease.jpController could not be found.
+Exception Attributes: array (
+  'class' => 'Trelease.jpController',
+  'plugin' => NULL,
+)
+Request URL: /PR/trelease.jp/PR/contact?url=contacthttps%3A%2Fae202424qn.smartrelease.jp%2FPR%2Fcontact
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#2 {main}
+2021-03-02 15:54:59 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668098330
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:54:59 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668099082
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:00 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668099824
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:01 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668100488
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:03 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668102177
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:07 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668106224
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:07 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668106797
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:24 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668124068
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:25 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668124698
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:28 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668127667
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:29 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668128117
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:36 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668136062
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:37 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668136589
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:37 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668136972
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:55:39 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668138131
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:58:01 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668280232
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:58:01 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668280770
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:58:02 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668281177
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:58:03 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668283033
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 15:58:11 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614668290481
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 16:45:20 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614671120293
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}
+2021-03-02 16:45:41 Error: [MissingActionException] Action ContactController::contact() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactController',
+  'action' => 'contact',
+)
+Request URL: /PR/contact/contact/getRefreshCaptcha?url=contact%2Fcontact%2FgetRefreshCaptcha&_=1614671141299
+Stack Trace:
+#0 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/home/ae202424qn/html/PR/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactController), Object(CakeRequest))
+#2 /usr/home/ae202424qn/html/PR/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /usr/home/ae202424qn/html/PR/index.php(43): require('/usr/home/ae202...')
+#4 {main}

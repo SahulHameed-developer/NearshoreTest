@@ -1,0 +1,327 @@
+@charset "utf-8";
+
+
+
+/* ========== about ========== */
+
+/*-------------------------------------------------*/
+
+
+/* mainvisual */
+.main_visual {
+	background: url(../../img/banner/sp/mv.jpg) no-repeat;
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+@media screen and (min-width: 769px) {
+	.main_visual {
+		background: url(../../img/banner/pc/mv.jpg) -450px 0;
+	}
+}
+@media screen and (min-width: 1100px) {
+	.main_visual {
+		background: url(../../img/banner/pc/mv.jpg) center 0 no-repeat #ead4b9;
+	}
+}
+
+
+/* ===== outline ===== */
+
+/* policy_list */
+@media screen and (min-width: 769px) {
+	.outline_contents .contents .policy_list {
+		width: 786px;
+		margin: 0 auto;
+	}
+}
+.outline_contents .contents .policy_list li {
+	float: left;
+	width: 28.90625vw;
+}
+@media screen and (min-width: 769px) {
+	.outline_contents .contents .policy_list li {
+		width: 242px;
+	}
+}
+.outline_contents .contents .policy_list li + li {
+	margin-left: 3.4375vw;
+}
+@media screen and (min-width: 769px) {
+	.outline_contents .contents .policy_list li + li {
+		margin-left: 30px;
+	}
+}
+
+
+/* ===== message ===== */
+
+/* block */
+.message_contents .contents .f_right_pc {
+	width: 65.625vw;
+	margin: 0 auto 6.25vw;
+}
+@media screen and (min-width: 769px) {
+	.message_contents .contents .f_right_pc {
+		width: 260px;
+		margin-bottom: 0;
+	}
+	.message_contents .contents .f_right_pc img {
+		width: 100%;
+	}
+}
+@media screen and (min-width: 769px) {
+	.message_contents .contents .f_left_pc {
+		width: 670px;
+	}
+	.message_contents .contents .f_left_pc .description {
+		text-indent: 1em;
+	}
+}
+.chairman_name {
+	margin-top: 9.375vw;
+	text-align: right;
+}
+@media screen and (min-width: 769px) {
+	.chairman_name {
+		margin-top: 50px;
+	}
+}
+
+
+/* ===== message ===== */
+
+/* hgroup */
+@media screen and (min-width: 769px) {
+	.message_contents .contents .article .h2 {
+		margin-bottom: 17px;
+	}
+}
+
+
+/* ===== executive ===== */
+
+/* section */
+.executive_contents .contents .section + .section {
+}
+@media screen and (min-width: 769px) {
+	.executive_contents .contents .section + .section {
+		margin-top: 50px;
+	}
+}
+
+/* table */
+.executive_contents .contents .h2 {
+}
+@media screen and (min-width: 769px) {
+	.executive_contents .contents .h2 {
+		margin-bottom: 15px;
+	}
+}
+@media screen and (min-width: 769px) {
+	.executive_contents .contents table {
+		width: 960px;
+	}
+}
+.executive_contents .contents th:first-child {
+	width: 130px;
+}
+@media screen and (min-width: 769px) {
+	.executive_contents .contents th:first-child {
+		width: 250px;
+	}
+}
+.executive_contents .contents th:nth-child(2) {
+	width: 110px;
+}
+@media screen and (min-width: 769px) {
+	.executive_contents .contents th:nth-child(2) {
+		width: 152px;
+	}
+}
+.executive_contents .contents th:nth-child(3) {
+		width: 200px;
+}
+@media screen and (min-width: 769px) {
+	.executive_contents .contents th:nth-child(3) {
+		width: 459px;
+	}
+}
+.executive_contents .contents th:last-child {
+}
+@media screen and (min-width: 769px) {
+	.executive_contents .contents th:last-child {
+		width: 102px;
+	}
+}
+.executive_contents .contents tr:nth-child(even) {
+	background: #F5F6F8;
+}
+
+
+/* ===== organization ===== */
+
+/* organization_img */
+.organization_img {
+	text-align: center;
+}
+
+/* pdf_block */
+.pdf_block {
+	text-align: center;
+}
+@media screen and (min-width: 769px) {
+	.pdf_block {
+		margin-top: 50px;
+	}
+}
+.pdf_block .description {
+	line-height: 1;
+}
+.pdf_block a {
+	display: inline-block;
+}
+@media screen and (min-width: 769px) {
+	.pdf_block a {
+		margin-top: 20px;
+	}
+}
+
+
+/* ===== statute ===== */
+
+/* dl */
+.statute_contents .contents dl {
+	display: table;
+}
+.statute_contents .contents dt,
+.statute_contents .contents dd {
+	display: table-cell;
+}
+.statute_contents .contents dt {
+	width: 15.625%;
+}
+@media screen and (min-width: 769px) {
+	.statute_contents .contents dt {
+		width: 70px;
+	}
+}
+.statute_contents .contents .sup_pro dt {
+	width: 2em
+}
+
+
+/* ===== access ===== */
+
+/* iframe */
+@media screen and (min-width: 769px) {
+	.access_contents .contents p {
+		line-height: 1;
+	}
+}
+
+/* iframe */
+.access_contents .contents iframe {
+	width: 100%;
+	height: 62.5vw;
+	margin-top: 4.6875vw;
+	border: 0 none;
+}
+@media screen and (min-width: 769px) {
+	.access_contents .contents iframe {
+		margin-top: 30px;
+		height: 400px;
+	}
+}
+
+/* access_block */
+.access_contents .contents .access_block {
+	margin-top: 4.6875vw;
+}
+@media screen and (min-width: 769px) {
+	.access_contents .contents .access_block {
+		margin-top: 30px;
+	}
+}
+@media screen and (min-width: 769px) {
+	.access_contents .contents .access_block p + p {
+		margin-top: 10px;
+	}
+}
+
+
+/* ===== download ===== */
+@media screen and (min-width: 769px) {
+	.dl_section .section {
+		float: left;
+		width: 460px;
+	}
+	.dl_section .section:nth-child(2) {
+		margin: 0;
+	}
+	.dl_section .section:nth-child(2n) {
+		float: right;
+	}
+}
+.download_contents .dl_list li {
+	position: relative;
+	padding-left: 4.6875vw;
+	font-size: 1.1rem;
+	line-height: 1;
+}
+@media screen and (min-width: 769px) {
+	.download_contents .dl_list li {
+		padding-left: 25px;
+		font-size: 16px;
+	}
+}
+.download_contents .dl_list li + li {
+	margin-top: 3.90625vw;
+}
+@media screen and (min-width: 769px) {
+	.download_contents .dl_list li + li {
+		margin-top: 20px;
+	}
+}
+.download_contents .dl_list li:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 3.125vw;
+	height: 3.28125vw;
+	background: url(../../common/images/download.gif) no-repeat;
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+@media screen and (min-width: 769px) {
+	.download_contents .dl_list li:after {
+		width: 14px;
+		height: 15px;
+	}
+}
+
+
+/* >>> 2017.07.31 addition >>> */
+
+
+/* ===== banner ===== */
+
+/* banner_link */
+section p .banner_link {
+	color: #1200ff;
+	text-decoration: underline;
+	display: inline;
+
+}
+.banner_list li {
+	margin-bottom: 25px;
+}
+.banner_list li figure {
+	margin-top: 5px;
+}
+
+
+/* <<< 2017.07.31 addition <<< */
+
